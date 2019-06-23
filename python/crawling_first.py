@@ -1,4 +1,6 @@
 # 실행 : ctrl + shift + b
+# Setting : ctrl-,
+# Git : ctrl + shitf + 9
 # 클로링과 한글깨짐 방지
 import requests
 from bs4 import BeautifulSoup
